@@ -1,0 +1,14 @@
+.container {
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    border: 2px solid #000000;
+    font-size: 0;
+}
+
+.container > div {
+    display: inline-block;
+    border: 0px solid #000000;
+    box-sizing: border-box;
+    margin: 0px;
+}
